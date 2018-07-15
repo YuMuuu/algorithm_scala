@@ -6,6 +6,7 @@
 
 書く予定のもの
 - フィボナッチ
+  - fib.scala
 - hanoi
 - WGCM
   - 深さ優先探索
