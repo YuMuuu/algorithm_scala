@@ -9,6 +9,9 @@
   - fib.scala
 - hanoi
   - hanoi.scala
+
+  末尾再帰にできないぞ
+
 - WGCM
   - 深さ優先探索
   - 幅優先探索
