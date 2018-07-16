@@ -8,6 +8,7 @@
 - フィボナッチ
   - fib.scala
 - hanoi
+  - hanoi.scala
 - WGCM
   - 深さ優先探索
   - 幅優先探索
